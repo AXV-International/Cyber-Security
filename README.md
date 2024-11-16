@@ -56,6 +56,47 @@ Merupakan fondasi dalam strategi keamanan siber yang dapat digunakan untuk meran
 Merupakan salah satu kompetisi/latihan Ethical Hacking yang dimana sebuah tim/personal harus mengambil sebuah string yang disembunyikan [flag] menggunakan berbagai teknik.
 - Metode kompetisi
     1. Jeopardy = Kompetisi/latihan berupa soal-soal dengan berbagai kategori yang dimana setiap soal memili poin dan tingkat kesulitannya serta dapat berupa blackbox maupun whitebox.
-    2. Attack and Defense [A&D] = Kompetisi/latihan yang memiliki sebuah flag server/infrastuktur/sistem/jaringan masing-masing yang tergolong rentan dan tujuan dari metode ini untuk menjaga flag server/infrastuktur/sistem/jaringan tersebut tidak diretas/tidak terganggu dan untuk menyerang flag server/infrastuktur/sistem/jaringan lawan.
+    2. Attack and Defense [A&D] = Kompetisi/latihan yang memiliki sebuah flag server/infrastuktur/sistem/jaringan masing-masing yang tergolong rentan dan tujuan dari metode ini untuk melindungi flag server/infrastuktur/sistem/jaringan tersebut tidak diretas/tidak terganggu disertai mengeksploitasi flag server/infrastuktur/sistem/jaringan lawan.
+    3, Speed CTF = Kompetisi/latihan yang dimana tiap personal akan beradu kecepatan dalam menyelesaikan sebuah soal.
 - Kategori CTF 
-    1. Cryptography = 
+    1. Binary Exploitation/PWN
+    2. Blockchain
+    3. Boot2Root/Privilege Escalation
+    4. Cryptography
+    5. Forensics
+    6. Game Exploitation
+    7. Miscellaneous [MISC]
+    8. Mobile Exploitation
+    9. Open-Source Intelligence [OSINT]
+    10. Programming
+    12. Reverse Engineering
+    13. Web Exploitation
+- Sistem penilaian Jeopardy
+    - Dynamic = Sistem penilaian semakin menurun berdasarkan total personal yang meyelesaikannya.
+    - Static = Sistem penilaian tetap sama walaupun total personal yang menyelesaikan banyak.
+- Sumber belajar CTF
+    - https://cryptohack.org/
+    - https://picoctf.org/
+    - https://ctflearn.com/
+    - https://pwn.college/
+    - https://asmtutor.com/
+    - https://tryhackme.com/
+    - https://ctf.rajawalisecteam.eu.org/
+    - https://portswigger.net/
+    - https://playground.tcp1p.team/
+    - https://overthewire.org/wargames/
+    - https://pwnable.tw/
+    - https://www.hackthebox.com/
+    - https://cyberdefenders.org/
+    - https://ctf.hackthebox.com/
+    - https://www.vulnhub.com/
+    - https://capturetheflag.withgoogle.com/
+    - https://www.hackthissite.org/
+    - https://www.hacktrace-ranges.id/ranges
+    - https://ethernaut.openzeppelin.com/
+    - https://cryptozombies.io/
+    - https://ctf.hackucf.org/
+    - https://www.damnvulnerabledefi.xyz/
+    - https://cryptopals.com/   
+    - https://mrstealyocrypto.xyz/
+    
