@@ -2,13 +2,27 @@
 ## What is Cyber Security
 > Berasal dari bahasa Latin `Se = Without [Tanpa]` dan `Cura = Care, Anxiety [Khawatir]`. Yang mengartikan bebas dari kekhawatiran atau was-was.
 
-`Cyber Security adalah bebas dari bahaya, bebas dari gangguan(pencuri,penjahat,dll), tidak mengandung resiko, terlindungi, dan tidak merasa takut atau khawatir` - KBBI
+`Cyber Security adalah bebas dari bahaya, bebas dari gangguan(pencuri,penjahat,dll), tidak mengandung resiko, terlindungi, dan tidak merasa takut atau khawatir.` - KBBI
+
+`Cyber Security berfokus dalam melindungi sistem komputer termasuk didalmnya hardware, software, data, dan infrastuktur digital lainnya dari akses yang tidak memiliki otorisasi sehingga mengakibatkan kerusakan atau tidak dapat diakses.` - Cyber Academy
 
 `Cyber Security adalah praktik perlindungan terhadap penggunaan data elektronik secara kriminal atau pengaksesan ilegal/tidak sah, maupun tindakan lainnya yang digunakan untuk mencapainya.` - CompTIA
 
 `Cyber Security adalah praktik penerapan sumber daya manusia, kebijakan, proses, dan teknologi untuk melindungi organisasi, sistem penting, dan informasi sensitif dari serangan digital.` - Gartner
 
 `Cyber Security adalah pencegahan kerusakan, perlindungan, dan pemulihan komunikasi komputer, sistem elektronik, layanan komunikasi elektronik, komunikasi kabel, dan komunikasi elektronik, termasuk informasi yang terkandung di dalamnya, untuk memastikan ketersediaan, integritas, autentikasi, kerahasiaan, dan tanpa penyangkalan.` - National Institute of Standard & Technology (NIST)
+
+## Manfaat Penerapan Cyber Security
+- Terhindar dari bahaya/serangan siber
+- Terhindar dari kerusakan akibat serangan siber
+- Menjaga kerahasiaan informasi
+- Melindungi kepemilikan informasi
+- Menjaga kondisi pikiran supaya terbebas dari tekanan/stress
+
+## Pilar/Kontrol Cyber Security
+> Keamanan siber yang kuat melibatkan langkah-langkah dalam implementasi yang dikenal dengan `kontrol`
+- People = Pengguna memahami(mendapatkan pelatihan dan kepedulian tentang keamanan siber serta bahayany) dan mematuhi prinsip-prinsip keamanan data.
+- Process = Organisasi memiliki kerangka kerja/framework(berupa identifikasi serangan, perlindungan sistem, mendeteksi dan merespon serangan, cara pulih dari serangan) bagaimana menghadapi serangan siber dari dalam maupun luar, baik berhasil maupun sebatas percabaan.
 
 ## CIA Triad/Triangle
 > Merupakan fondasi dalam strategi keamanan siber yang dapat digunakan untuk merancang keamanan maupun menilai potensi dampak keamanan atau merepresentasikan karakteristik dari tujuan keamanan
