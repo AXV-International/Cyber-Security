@@ -1,5 +1,9 @@
 # Cyber Security
 ## What is Cyber Security
+> Berasal dari bahasa Latin `Se = Without [Tanpa]` dan `Cura = Care, Anxiety [Khawatir]`. Yang mengartikan bebas dari kekhawatiran atau was-was.
+
+`Cyber Security adalah bebas dari bahaya, bebas dari gangguan(pencuri,penjahat,dll), tidak mengandung resiko, terlindungi, dan tidak merasa takut atau khawatir` - KBBI
+
 `Cyber Security adalah praktik perlindungan terhadap penggunaan data elektronik secara kriminal atau pengaksesan ilegal/tidak sah, maupun tindakan lainnya yang digunakan untuk mencapainya.` - CompTIA
 
 `Cyber Security adalah praktik penerapan sumber daya manusia, kebijakan, proses, dan teknologi untuk melindungi organisasi, sistem penting, dan informasi sensitif dari serangan digital.` - Gartner
@@ -7,7 +11,7 @@
 `Cyber Security adalah pencegahan kerusakan, perlindungan, dan pemulihan komunikasi komputer, sistem elektronik, layanan komunikasi elektronik, komunikasi kabel, dan komunikasi elektronik, termasuk informasi yang terkandung di dalamnya, untuk memastikan ketersediaan, integritas, autentikasi, kerahasiaan, dan tanpa penyangkalan.` - National Institute of Standard & Technology (NIST)
 
 ## CIA Triad/Triangle
-Merupakan fondasi dalam strategi keamanan siber yang dapat digunakan untuk merancang keamanan maupun menilai potensi dampak keamanan atau merepresentasikan karakteristik dari tujuan keamanan
+> Merupakan fondasi dalam strategi keamanan siber yang dapat digunakan untuk merancang keamanan maupun menilai potensi dampak keamanan atau merepresentasikan karakteristik dari tujuan keamanan
 - Confidentiality [Kerahasiaan Data] = Memastikan informasi hanya dapat diakses oleh personal yang memiliki otorisasi, Dapat dilakukan dengan menerapkan enkripsi, menerapkan otentikasi/password, menerapkan data masking
 - Integrity [Integritas Data] = Menjaga informasi tetap akuran dan utuh serta tidak dimodifikasi oleh personal yang tidak memiliki otorisasi
 - Availability [Ketersediaan Data] = Memastikan informasi tetap tersedia ketika diperlukan oleh personal yang memiliki otorisasi  
@@ -53,24 +57,24 @@ Merupakan fondasi dalam strategi keamanan siber yang dapat digunakan untuk meran
     - Langkah Teknis: Langkah-langkah teknis yang diambil dalam pengujian untuk referensi bagi tim keamanan.
 
 ## Capture The Flag
-Merupakan salah satu kompetisi/latihan Ethical Hacking yang dimana sebuah tim/personal harus mengambil sebuah string yang disembunyikan [flag] menggunakan berbagai teknik.
+> Merupakan salah satu kompetisi/latihan Ethical Hacking yang dimana sebuah tim/personal harus mengambil sebuah string yang disembunyikan [flag] menggunakan berbagai teknik.
 - Metode kompetisi
-    1. Jeopardy = Kompetisi/latihan berupa soal-soal dengan berbagai kategori yang dimana setiap soal memili poin dan tingkat kesulitannya serta dapat berupa blackbox maupun whitebox.
-    2. Attack and Defense [A&D] = Kompetisi/latihan yang memiliki sebuah flag server/infrastuktur/sistem/jaringan masing-masing yang tergolong rentan dan tujuan dari metode ini untuk melindungi flag server/infrastuktur/sistem/jaringan tersebut tidak diretas/tidak terganggu disertai mengeksploitasi flag server/infrastuktur/sistem/jaringan lawan.
-    3, Speed CTF = Kompetisi/latihan yang dimana tiap personal akan beradu kecepatan dalam menyelesaikan sebuah soal.
+    - Jeopardy = Kompetisi/latihan berupa soal-soal dengan berbagai kategori yang dimana setiap soal memili poin dan tingkat kesulitannya serta dapat berupa blackbox maupun whitebox.
+    - Attack and Defense [A&D] = Kompetisi/latihan yang memiliki sebuah flag server/infrastuktur/sistem/jaringan masing-masing yang tergolong rentan dan tujuan dari metode ini untuk melindungi flag server/infrastuktur/sistem/jaringan tersebut tidak diretas/tidak terganggu disertai mengeksploitasi flag server/infrastuktur/sistem/jaringan lawan.
+    - Speed CTF = Kompetisi/latihan yang dimana tiap personal akan beradu kecepatan dalam menyelesaikan sebuah soal.
 - Kategori CTF 
-    1. Binary Exploitation/PWN
-    2. Blockchain
-    3. Boot2Root/Privilege Escalation
-    4. Cryptography
-    5. Forensics
-    6. Game Exploitation
-    7. Miscellaneous [MISC]
-    8. Mobile Exploitation
-    9. Open-Source Intelligence [OSINT]
-    10. Programming
-    12. Reverse Engineering
-    13. Web Exploitation
+    - Binary Exploitation/PWN
+    - Blockchain
+    - Boot2Root/Privilege Escalation
+    - Cryptography
+    - Forensics
+    - Game Exploitation
+    - Miscellaneous [MISC]
+    - Mobile Exploitation
+    - Open-Source Intelligence [OSINT]
+    - Programming
+    - Reverse Engineering
+    - Web Exploitation
 - Sistem penilaian Jeopardy
     - Dynamic = Sistem penilaian semakin menurun berdasarkan total personal yang meyelesaikannya.
     - Static = Sistem penilaian tetap sama walaupun total personal yang menyelesaikan banyak.
@@ -99,4 +103,4 @@ Merupakan salah satu kompetisi/latihan Ethical Hacking yang dimana sebuah tim/pe
     - https://www.damnvulnerabledefi.xyz/
     - https://cryptopals.com/   
     - https://mrstealyocrypto.xyz/
-    
+    - https://prompt.ml/
