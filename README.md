@@ -21,8 +21,9 @@
 
 ## Pilar/Kontrol Cyber Security
 > Keamanan siber yang kuat melibatkan langkah-langkah dalam implementasi yang dikenal dengan `kontrol`
-- People = Pengguna memahami(mendapatkan pelatihan dan kepedulian tentang keamanan siber serta bahayany) dan mematuhi prinsip-prinsip keamanan data.
-- Process = Organisasi memiliki kerangka kerja/framework(berupa identifikasi serangan, perlindungan sistem, mendeteksi dan merespon serangan, cara pulih dari serangan) bagaimana menghadapi serangan siber dari dalam maupun luar, baik berhasil maupun sebatas percabaan.
+- People = Pengguna memahami(mendapatkan pelatihan dan kepedulian tentang keamanan siber serta bahayanya) dan mematuhi prinsip-prinsip keamanan data.
+- Process = Organisasi memiliki kerangka kerja/framework(berupa identifikasi serangan, perlindungan sistem, mendeteksi dan merespon serangan, cara pulih dari serangan) bagaimana menghadapi serangan siber dari dalam maupun luar, baik berhasil maupun sebatas percobaan.
+- Technology = 
 
 ## CIA Triad/Triangle
 > Merupakan fondasi dalam strategi keamanan siber yang dapat digunakan untuk merancang keamanan maupun menilai potensi dampak keamanan atau merepresentasikan karakteristik dari tujuan keamanan
