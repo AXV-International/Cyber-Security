@@ -93,7 +93,7 @@
 - Sistem penilaian Jeopardy
     - Dynamic = Sistem penilaian semakin menurun berdasarkan total personal yang meyelesaikannya.
     - Static = Sistem penilaian tetap sama walaupun total personal yang menyelesaikan banyak.
-- Sumber belajar CTF
+- Sumber belajar Cyber Security
     - https://cryptohack.org/
     - https://picoctf.org/
     - https://ctflearn.com/
